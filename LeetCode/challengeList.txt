@@ -1,0 +1,3 @@
+Q53: Try to use <Divide and Conquer>, <Greedy with two lines inside the for loop>, <dynamic programming> approaches.
+
+
