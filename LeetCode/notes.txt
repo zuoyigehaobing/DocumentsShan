@@ -1,0 +1,2 @@
+- Master Throrem
+- Dynamic programing
