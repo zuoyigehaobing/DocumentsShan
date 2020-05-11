@@ -1,5 +1,7 @@
 Q53: Try to use <Divide and Conquer>, <Greedy with two lines inside the for loop>, <dynamic programming> approaches.
 
+Q202: Think mathematically when the problem involves numbers
+
 Q206: Will find it interesting using recursion/iteration.
 
 Q937: Customize sort in Python
