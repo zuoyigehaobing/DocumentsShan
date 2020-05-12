@@ -1,6 +1,7 @@
 Q53: Try to use <Divide and Conquer>, <Greedy with two lines inside the for loop>, <dynamic programming> approaches.
 
-Q202: Think mathematically when the problem involves numbers
+Q202: (1) Cycle finding problem -- hash tables, Floyd's Cycle-Finding Algorithm
+      (2) Think mathematically when the problem involves numbers
 
 Q206: Will find it interesting using recursion/iteration.
 
