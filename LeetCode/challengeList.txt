@@ -1,3 +1,5 @@
+Q7: Easy one, be aware that negative integers have different behaviour under % and // operation compared to positive integers.
+
 Q53: Try to use <Divide and Conquer>, <Greedy with two lines inside the for loop>, <dynamic programming> approaches.
 
 Q202: (1) Cycle finding problem -- hash tables, Floyd's Cycle-Finding Algorithm
