@@ -1,2 +1,3 @@
 - Master Throrem
 - Dynamic programing
+- Greedy Algorithm
