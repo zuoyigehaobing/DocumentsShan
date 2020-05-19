@@ -9,6 +9,8 @@ Q206: Will find it interesting using recursion/iteration.
 
 Q415: Easy one, make sure to double check the status of some intermediate variable before returning.
 
+Q811: Easy one. <join method in str> <collections.Counter()>
+
 Q937: Customize sort in Python
 
 Q953: Easy one, but i attempted several times. Make conditions clear. Worth another try.
