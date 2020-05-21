@@ -2,7 +2,7 @@ Q7: Easy one, be aware that negative integers have different behaviour under % a
 
 Q53: Try to use <Divide and Conquer>, <Greedy with two lines inside the for loop>, <dynamic programming> approaches.
 
-Q88: Merge two sorted lists. List all cases carefully. Worth another trial.
+Q88: Merge two sorted lists. List all cases carefully. Worth another trial. To reduce the number of operations, only check the two following position dynamically while processing. 
 
 Q202: (1) Cycle finding problem -- hash tables, Floyd's Cycle-Finding Algorithm
       (2) Think mathematically when the problem involves numbers
