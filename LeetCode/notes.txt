@@ -1,5 +1,5 @@
 - Master Throrem
 - Dynamic programing
-- Greedy Algorithm/ Shortest path algorithm
+- Greedy Algorithm/ Shortest Path Algorithm
 - Sorting Algorithms (time complexity, space complexity, behaviour, etc...)
--
+- Hash Tables
