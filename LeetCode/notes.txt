@@ -1,4 +1,5 @@
 - Master Throrem
 - Dynamic programing
-- Greedy Algorithm
+- Greedy Algorithm/ Shortest path algorithm
 - Sorting Algorithms (time complexity, space complexity, behaviour, etc...)
+-
