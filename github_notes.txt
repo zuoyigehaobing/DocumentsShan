@@ -1,2 +1,2 @@
-# To ignore file that are alfeady checked in, make sure to run the following before add them in .gitignore
+# To ignore files that are alfeady checked in, make sure to run the following before add them in .gitignore
 > git rm --cached <file_name>
